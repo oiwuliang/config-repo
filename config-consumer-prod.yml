@@ -4,4 +4,4 @@ info:
 name: Paul
 words: 'God bless you and me'
 food: '羊肉'
-password: '{cipher}22efbc83fdef6fd5de442a7c492efef2305a0500f1973cbdc9b591e7cd3517d7'
+password: {cipher}22efbc83fdef6fd5de442a7c492efef2305a0500f1973cbdc9b591e7cd3517d7
